@@ -1,0 +1,4 @@
+ls
+cd papkapervay
+ls
+date
