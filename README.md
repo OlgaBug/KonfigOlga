@@ -53,8 +53,8 @@ import sys, os
 py zadan.py dot C:\Users\USER1\OneDrive\Desktop\konfig2\.git output.dot secvetka
 # Результат работы
 ![image](https://github.com/user-attachments/assets/77e5c3cd-116b-4676-8fa8-bc264b0ee76f)
+![image](https://github.com/user-attachments/assets/66b4b0a7-a49c-4271-b67e-b4aca1e82243)
 
-![image](https://github.com/user-attachments/assets/b953fcbe-b039-43d8-8dff-f40b360e67e8)
 
 
 # Тестирование и работа программы
